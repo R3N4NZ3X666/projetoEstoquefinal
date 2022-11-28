@@ -17,7 +17,7 @@ visualização, exclusão e cadastro de outros produtos.
 # LOGIN PADRÃO PARA ACESSO #
 
  👨‍💻USUÁRIO 
-loginteste@email.com
+Admin@email.com
 
 > 🔐SENHA 
-123
+Admin123
