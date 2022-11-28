@@ -1,4 +1,4 @@
-# 🔥 CRUD com autenticação integrado ao Firebase utilizando apenas HTML, CSS e Javascript
+Ir# 🔥 CRUD com autenticação integrado ao Firebase utilizando apenas HTML, CSS e Javascript
 
 Projeto em HTML, CSS e Vanilla Javascript que implementa um pequeno CRUD.
 
@@ -20,4 +20,4 @@ visualização, exclusão e cadastro de outros produtos.
 Admin@email.com
 
 > 🔐SENHA 
-Admin123
+admin123
